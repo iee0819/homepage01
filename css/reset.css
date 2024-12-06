@@ -1,0 +1,39 @@
+* {
+    font-size: inherit;
+    font-weight: inherit;
+
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+em {
+    font-style: normal;
+}
+
+address {
+    font-style: normal;
+}
+
+body {
+    line-height: 1;
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
